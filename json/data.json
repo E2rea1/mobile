@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "type": "buy",
+      "desc": "123",
+      "contact": "18511622334",
+      "address": "北京市昌平区政府街",
+      "latitude": 40.22027,
+      "longitude": 116.23616,
+      "id": 1
+    },
+    {
+      "type": "sell",
+      "address": "北京市昌平区西环路29-33号",
+      "latitude": 40.21893493769617,
+      "longitude": 116.22660222747803,
+      "desc": "123",
+      "contact": "1qa32",
+      "id": 4
+    },
+    {
+      "type": "buy",
+      "address": "北京市昌平区城南街道旧西路",
+      "latitude": 40.23445,
+      "longitude": 116.19068,
+      "desc": "qweqwr",
+      "contact": "12312412312",
+      "id": 5
+    },
+    {
+      "type": "sell",
+      "address": "北京市昌平区廊桥河谷公园(307省道北)",
+      "latitude": 40.19238,
+      "longitude": 116.27504,
+      "desc": "12312",
+      "contact": "131745523412",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<!--pages/publish/publish.wxml-->
+
+<view class='row'>
+  <label>我的地址</label>
+  <view bindtap='selAddress' class='address'>{{address}}</view>
+</view>
+<view class='row'>
+  <view>{{type==='buy'?'求购':'转让'}}</view>
+</view>
+<view class='row'>
+  
+  <input placeholder='填写您的具体需求' value="{{desc}}" ></input>
+</view>
+<view class='row'>
+  
+  <input placeholder='填写您的联系方式' value="{{contact}}"></input>
+</view>
+
